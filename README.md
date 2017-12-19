@@ -1,5 +1,6 @@
 # Node.js Design Patterns, Second Edition
-##[添加了个人的读书笔记 请移步项目 Wiki 详细内容](https://github.com/xiaowenqiannn/Node.js-Design-Patterns-Code-Notebook/wiki)
+
+## [在代码的基础上 添加了个人读书笔记 请移步项目 Wiki 查看详细内容](https://github.com/xiaowenqiannn/Node.js-Design-Patterns-Code-Notebook/wiki)
 
 This repository contains the code for all the example available inside Node.js Design Patterns Second Edition by [Mario Casciaro](https://github.com/mariocasciaro) and [Luciano Mammino](https://github.com/lmammino) (edited and published by [Packt](https://github.com/PacktPublishing))
 
