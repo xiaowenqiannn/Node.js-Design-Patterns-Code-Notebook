@@ -1,18 +1,10 @@
-# Node.js Design Patterns, Second Edition
+# Node.js Design Patterns（Second Edition）Code & Notebook
 
-## [在代码的基础上 添加了个人读书笔记 请移步项目 Wiki 查看详细内容](https://github.com/xiaowenqiannn/Node.js-Design-Patterns-Code-Notebook/wiki)
+Fork From [Node.js Design Patterns Second Edition Code](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code)   
 
-This repository contains the code for all the example available inside Node.js Design Patterns Second Edition by [Mario Casciaro](https://github.com/mariocasciaro) and [Luciano Mammino](https://github.com/lmammino) (edited and published by [Packt](https://github.com/PacktPublishing))
+阅读Node.js设计模式的过程中 结合Code 编写了个人读书笔记   
+请移步项目 [Wiki](https://github.com/xiaowenqiannn/Node.js-Design-Patterns-Code-Notebook/wiki)查看详细内容
 
-[![Node.js Design Patterns second edition book cover](https://www.nodejsdesignpatterns.com/img/book-cover-nodejs-design-patterns.jpg)](https://www.nodejsdesignpatterns.com/)
-
-This book is mainly suited for developers who have already had initial contact with Node.js and now want to get the most out of it in terms of productivity, design quality, and scalability.
-
-You can find more details about the content of the book on the official website: [www.nodejsdesignpatterns.com](https://www.nodejsdesignpatterns.com/).
-
-
-# Other Node.js books from Packt
-
-  - [Mastering Node.js](https://www.packtpub.com/web-development/mastering-nodejs?utm_source=GitHub&utm_medium=repo&utm_campaign=9781782166320)
-  - [Deploying Node.js](https://www.packtpub.com/web-development/deploying-nodejs?utm_source=GitHub&utm_medium=repo&utm_campaign=9781783981403)
-  - [Node.js By Example](https://www.packtpub.com/application-development/nodejs-example?utm_source=GitHub&utm_medium=repo&utm_campaign=9781784395711)
+### 最新进度更新 【截止2017.12.20】
+- Chapter 1 [Node.js Design Fundamentals](https://github.com/xiaowenqiannn/Node.js-Design-Patterns-Code-Notebook/wiki/Chapter--1-Node.js-Design-Fundamentals)
+- Chapter 2 [Node.js Essential Patterns](https://github.com/xiaowenqiannn/Node.js-Design-Patterns-Code-Notebook/wiki/Chapter--2--Node.js-Essential-Patterns)
